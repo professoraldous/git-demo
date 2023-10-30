@@ -3,7 +3,7 @@
 using namespace std;
 
 void lexer() {
-    cout << "I like lexing before parsing" << endl;
+    cout << "Lexing correctly this time" << endl;
 }
 
 int main() {
